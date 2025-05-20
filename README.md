@@ -5,15 +5,17 @@
 **Leveraging GIS for Wildfire Applications in the Wildland-Urban Interface (WUI)**
 
 This project explores how Geographic Information Systems (GIS) can be used to assess wildfire hazard levels in Wildland-Urban Interface (WUI) zones—areas where human development meets wildland vegetation. Focused on a section of Halifax Regional Municipality, the project integrates topography, fuel type, and weather data to model fire hazard levels using both **ArcGIS Pro** and **Google Earth Engine**.
-\nThese scripts were developed as a requirement for the Graduate Certificate in GIS at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia.
 
-\nFor educational purposes only. Created by Brian Gauthier © 2025 COGS.
+These scripts were developed as a requirement for the Graduate Certificate in GIS at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia.
+
+For educational purposes only. Created by Brian Gauthier © 2025 COGS.
+
 ---
 
 ### 🧩 Core Components Implemented
 
 - **Topographic Risk Mapping**  
-  DEM-derived slope, aspect, and elevation maps were created and classified using LiDAR data where available to improve accuracy.
+  DEM-derived slope, aspect, and elevation maps were created and classified using LiDAR data to improve accuracy.
 
 - **Fuel Type Classification**  
   Sentinel-2 imagery was used to classify vegetation using NDVI/EVI, providing a fuel hazard layer integrated into ArcGIS Pro.
@@ -85,7 +87,7 @@ This script prepares satellite imagery and boundary data for wildfire analysis w
 
 ### 📝 Notes:
 
-- Ensure that you're logged into **Google Earth Engine** and using the correct GEE project (`bgcloud87` in this script).
+- Ensure that you're logged into **Google Earth Engine** and using the correct GEE project.
 - This script assumes it is run within an open **ArcGIS Pro** project (`CURRENT`) and will automatically use its directory as the base path.
 
 ---

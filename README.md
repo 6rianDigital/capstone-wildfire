@@ -5,9 +5,9 @@
 **Leveraging GIS for Wildfire Applications in the Wildland-Urban Interface (WUI)**
 
 This project explores how Geographic Information Systems (GIS) can be used to assess wildfire hazard levels in Wildland-Urban Interface (WUI) zones—areas where human development meets wildland vegetation. Focused on a section of Halifax Regional Municipality, the project integrates topography, fuel type, and weather data to model fire hazard levels using both **ArcGIS Pro** and **Google Earth Engine**.
-These scripts were developed as a requirement for the Graduate Certificate in GIS at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia.
+\nThese scripts were developed as a requirement for the Graduate Certificate in GIS at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia.
 
-For educational purposes only. Created by Brian Gauthier © 2025 COGS.
+\nFor educational purposes only. Created by Brian Gauthier © 2025 COGS.
 ---
 
 ### 🧩 Core Components Implemented
